@@ -1,4 +1,4 @@
-# goal-workflow
+# claude-codex-goal-workflow
 
 English | [简体中文](./README_CN.md)
 
